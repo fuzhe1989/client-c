@@ -1,6 +1,6 @@
 [submodule "third_party/kvproto"]
 	path = third_party/kvproto
-	url = git@github.com:fuzhe1989/kvproto.git
+	url = git@github.com:pingcap/kvproto.git
 [submodule "third_party/googletest"]
 	path = third_party/googletest
 	url = git@github.com:google/googletest.git
